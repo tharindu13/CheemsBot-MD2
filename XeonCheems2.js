@@ -263,7 +263,7 @@ const reply = (teks) => {
         }
         }
 
-        //auto reply by xeon 🦄
+        //auto reply by Deepak 🦄
         for (let anji of setik){
 				if (budy === anji){
 					result = fs.readFileSync(`./XeonMedia/sticker/${anji}.webp`)
@@ -294,7 +294,7 @@ const reply = (teks) => {
       return
       }
         
-        //media detect by 🦄xeon\\
+        //media detect by 🦄 Deepak\\
 		const isQuotedImage = type === 'extendedTextMessage' && content.includes('imageMessage')
 		const isQuotedVideo = type === 'extendedTextMessage' && content.includes('videoMessage')
 		const isQuotedAudio = type === 'extendedTextMessage' && content.includes('audioMessage')
@@ -4240,7 +4240,7 @@ var unicorn = await getBuffer(picak+'Developer')
 await XeonBotInc.send5ButImg(from, `` + '' + ' ', `
 Thanks to
 LORD BUDDHA
-Xeon (Me)
+Deepak (Me)
 My family
 And All Friends Who Helped Assemble This Sexy Script !!!`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
