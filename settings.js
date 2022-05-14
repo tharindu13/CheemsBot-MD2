@@ -21,15 +21,15 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918348225320']
-global.premium = ['918348225320']
-global.ownernomer = '918348225320'
-global.ownername = '🦄Dream Guy Deepak'
-global.botname = 'Cheems Bot MD V2'
+global.owner = ['94701040812']
+global.premium = ['94701040812']
+global.ownernomer = '94701040812'
+global.ownername = 'THARINDU'
+global.botname = 'EVONZA BOT'
 global.footer = '🦄Deepak #bot.'
-global.ig = 'https://github.com/DGDEEPAK'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGDEEPAK/CheemsBot-MD2'
+global.ig = 'https://github.com/tharindu13'
+global.region = 'SriLanka,Ambalangoda,Kahawa'
+global.sc = 'https://github.com/tharindu13/CheemsBot-MD2'
 global.myweb = 'https://youtube.com/channel/UCmI5wn_THTntx58EookLwUw'
 global.packname = 'Cheems Bot'
 global.author = '🦄Dream Guy Deepak'
